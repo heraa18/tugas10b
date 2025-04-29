@@ -1,0 +1,16 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.login{
+    float: none;
+    border:solid rgb(230, 13, 147) 10px;
+    background-attachment: fixed;
+    background-color: rgb(247, 244, 244);
+    height: 280px;
+    width: 180px;
+    padding: 9px;
+    border-radius: 12px;
+    margin-left: 520px;
+}

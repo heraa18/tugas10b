@@ -1,0 +1,48 @@
+.box-1{
+     border: solid purple 5px;
+     background-attachment: fixed;
+     background-color: white;
+     height: 56px;
+     width: 50px;
+     margin: 20px;
+     padding: 10px;
+     border-radius: 9px;
+
+
+
+
+}
+
+.box-2{
+       border: solid purple 5px;
+       background-attachment: fixed;
+       background-color: white;
+       height: 50px;
+       width: 50px;
+       margin: 120px;
+       padding: 10px;
+       border-radius: 9px;
+
+
+
+}
+
+
+.box-3{
+       border: solid yellow 8px;
+       background-attachment: fixed;
+       background-color: pink;
+       height: 20px;
+       width: 11px;
+       margin: 23px;
+       padding: 22px;
+       border-radius: 4px;
+
+
+
+
+
+
+
+
+}
